@@ -30,7 +30,7 @@ This is a responsive multi-page web application built for India's leading Electr
 ## Tech Stack
 
 - **Frontend**: React, Chart.js
-- **Styling**: Tailwind CSS
+- **Styling**: Vanila CSS
 - **Data Storage**: LocalStorage (to retain added/modified data across sessions)
 - **Charting Library**: Chart.js
 
